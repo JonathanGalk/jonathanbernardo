@@ -222,21 +222,7 @@ body {
 .rodape {
     padding: 1%;
     margin: 2%;
-}
-.contato {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-.contato li {
-    color: #f2f2f2;
-}
-.contato a {
-    color: orange;
-}
-.contato a img:hover {
-    transform: scale(1.2);
-    filter: drop-shadow(0px 2px 2px rgb(88, 88, 88));
+    text-align: center;
 }
 
 /* RESPONSIVIDADE */
